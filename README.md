@@ -137,6 +137,8 @@ of wealth between men and women changes from 2010 to 2015 in the animation below
 33.7% increase shows how women are slowly becoming wealthier and it will be interesting to
 see how these numbers continue to change in the future.
 
+Total change over time animation can be seen by downloading the total_wealth_change.mp4 file.
+
 ### Industry ###
 To break down the analysis even further I looked at which industries had created the most wealth
 in the top 100 list as well as which industries had the highest amount of positive natural growth.
