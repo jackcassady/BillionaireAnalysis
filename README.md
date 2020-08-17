@@ -137,3 +137,73 @@ of wealth between men and women changes from 2010 to 2015 in the animation below
 33.7% increase shows how women are slowly becoming wealthier and it will be interesting to
 see how these numbers continue to change in the future.
 
+### Industry ###
+To break down the analysis even further I looked at which industries had created the most wealth
+in the top 100 list as well as which industries had the highest amount of positive natural growth.
+There are 14 industries used by Forbes to describe each person on the list which are detailed in
+data.
+
+<img src="industry_contributions_bar.svg" width=600>
+
+The graph above shows how the total wealth has changed over time as well as the contributions
+by each of the 14 industries to the total wealth that year. We can see that the largest contributions
+to the total wealth are Fashion & Retail with an average of $385.28 billion contributed each year
+which is 20.7% of the average total wealth of the billionaires on the list. This is followed closely
+by Technology and Finance which had averages of $286.83 billion and $206.75 billion with
+about 15.4% and 11.1% of average total wealth respectively. Nearly half of all wealth from the
+top 100 billionaires (47.2%) came from one of three Industries. We can look further at this data
+using the next graph.
+
+<img src="industry_growth.svg" width=600>
+
+The next graphs shows the top half of industries in terms of total wealth contributions as well as
+year to year percent change of total wealth for the Industries with the highest "natural growth". I
+refer to it as natural growth because their total contribution is much higher, so they are less
+susceptible to variation from changes to people in the top 100 list, rather than actual growth in
+the industry. As I mentioned above, Fashion & Retail, Technology and Finance contribute the
+highest amount of money to the top 100 billionaires, looking at the top half of wealth
+contributing industries however, we see that on average nearly 80% of total wealth is contributed
+by these industries. Moreover, the growth of all of these industries is strongly positive with the
+exception of Mining. Looking at the Top 50% of Industries by Natural Growth graph, one
+notable change among the industries is Real Estate; which had tremendous growth from 2010 to
+2015 of nearly 52.7%, most likely as a result of a combination of cheaper real estate prices
+following the 2008 Recession and population booms in South-East Asian countries like China.
+Another notable change that can be seen in the Top 50% of Industries Performance by Total
+Wealth is a spike in mining in 2011 followed by constant losses. From what I have found the
+spike is most likely due to an increased interest in gold and silver which are known to be safe
+investments during volatile markets such as the aftermath of the recession, then after 2011, prices
+of commodities such as coal decreased as natural gas became cheaper resulting in a decline in
+wealth.
+
+### Countries ###
+
+In looking at the ways in which billionaires have gained their wealth, it is important to
+understand which countries are providing people with the opportunity to gain the money
+necessary to reach this status.
+
+<img src="billionaire_map.svg" width=600>
+
+The map above shows the number of billionaires in the top 100 that come from each country in
+2015 with darker shades of red representing the countries with higher numbers of billionaires and
+countries colored grey with none. We can see that the United States has the most billionaires by a
+significant margin. In 2015, the United States had 41 billionaires in the top 100 list, while the
+next closest country, Germany, had only 8. This significant difference in the number of
+billionaires for the United States is thanks to its powerful economy that has traditionally
+supported larger corporations with trade, taxes, economic freedom from government and skilled
+labor. The combination of these factors provides a perfect environment for the United States to
+produce mega wealth people. The next three countries on the list: Germany, China, and Russia,
+also provide some of the factors that produce billionaires, however, in these countries
+the government takes a much more controlling role over the economy than the United States.
+Specifically, China and Russia have more totalitarian governments that take a controlling share
+in some of the large corporations that operate there.
+
+<img src="country_growth.svg" width=600>
+
+The graph above depicts the 8 highest countries in terms of growth. By far the highest amount of
+wealth contributed to the list comes from the United States with $1.1 Trillion in 2015 which is
+$951.4 Billion more than the next closest country. The United States also boasts an impressive
+growth rate of 108% from 2010 to 2015 more than doubling its total wealth from $529.9 Billion
+to the $1.1 Trillion previously mentioned. Even with this tremendous growth, the United States
+is not first in terms of growth. Spain had the highest growth in total wealth at 158% followed by
+Japan at 127% and the United Kingdom with 109%. Even with this slightly lower growth, the
+United States continues to dominate in terms of contributions of total wealth.
