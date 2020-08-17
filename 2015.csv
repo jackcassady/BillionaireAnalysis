@@ -1,0 +1,103 @@
+No.,Name,Nationality,Age,Gender,Net Worth USD billion,Source(s) of wealth,Industry
+1,Bill Gates,United States of America,59.0,M,79.2,Microsoft,Technology
+2,Carlos Slim Helu,Mexico,75.0,M,77.1,Telecom,Telecom
+3,Warren Buffett,United States of America,84.0,M,72.7,Berkshire Hathaway,Finance
+4,Amancio Ortega,Spain,78.0,M,64.5,Zara,Fashion & Retail
+5,Larry Ellison,United States of America,70.0,M,54.3,Oracle,Technology
+6,Charles Koch,United States of America,79.0,M,42.9,Diversified,Diversified
+6,David Koch,United States of America,74.0,M,42.9,Diversified,Diversified
+8,Christy Walton,United States of America,60.0,F,41.7,Wal-Mart,Fashion & Retail
+9,Jim Walton,United States of America,67.0,M,40.6,Wal-Mart,Fashion & Retail
+10,Liliane Bettencourt,France,92.0,F,40.1,L'Oréal,Fashion & Retail
+11,Alice Walton,United States of America,65.0,F,39.4,Wal-Mart,Fashion & Retail
+12,S. Robson Walton,United States of America,71.0,M,39.1,Wal-Mart,Fashion & Retail
+13,Bernard Arnault,France,66.0,M,37.2,LVMH,Fashion & Retail
+14,Michael Bloomberg,United States of America,73.0,M,35.5,Bloomberg LP,Media & Entertainment
+15,Jeff Bezos,United States of America,51.0,M,34.8,Amazon.com,Technology
+16,Mark Zuckerberg,United States of America,30.0,M,33.4,Facebook,Technology
+17,Li Ka-shing,Hong Kong,86.0,M,33.3,Diversified,Diversified
+18,Sheldon Adelson,United States of America,81.0,M,31.4,Casinos,Gambling & Casinos
+19,Larry Page,United States of America,41.0,M,29.7,Google,Technology
+20,Sergey Brin,United States of America,41.0,M,29.2,Google,Technology
+21,Georg Schaeffler,Germany,50.0,M,26.9,Ball bearings,Manufacturing
+22,"Forrest Mars, Jr.",United States of America,83.0,M,26.6,Candy,Food & Beverage
+22,Jacqueline Mars,United States of America,75.0,F,26.6,Candy,Food & Beverage
+22,John Mars,United States of America,78.0,M,26.6,Candy,Food & Beverage
+25,David Thomson,Canada,57.0,M,25.5,Media,Media & Entertainment
+26,Jorge Paulo Lemann,Brazil,75.0,M,25.0,Beer,Food & Beverage
+27,Lee Shau Kee,Hong Kong,87.0,M,24.8,Real estate,Real Estate
+28,Stefan Persson,Sweden,67.0,M,24.5,H&M,Fashion & Retail
+29,George Soros,United States of America,84.0,M,24.2,Hedge funds,Finance
+29,Wang Jianlin,China,60.0,M,24.2,Real Estate,Real Estate
+31,Carl Icahn,United States of America,79.0,M,23.5,Investments,Finance
+32,Maria Franca Fissolo,Italy,97.0,F,23.4,"Nutella, chocolates",Food & Beverage
+33,Jack Ma,China,50.0,M,22.7,E-commerce,Technology
+34,Prince Alwaleed Bin Talal Alsaud,Saudi Arabia,59.0,M,22.6,Investments,Finance
+35,Steve Ballmer,United States of America,58.0,M,21.5,Microsoft,Technology
+35,Phil Knight,United States of America,77.0,M,21.5,Nike,Fashion & Retail
+37,Karl Albrecht Jr.,Germany,,M,21.3,Supermarkets,Fashion & Retail
+38,Li Hejun,China,47.0,M,21.1,Solar power equipment,Energy
+39,Mukesh Ambani,India,57.0,M,21.0,"Petrochemicals, oil & gas",Energy
+40,Leonardo Del Vecchio,Italy,79.0,M,20.4,Eyeglasses,Fashion & Retail
+41,Len Blavatnik,United States of America,57.0,M,20.2,Diversified,Diversified
+41,Tadashi Yanai,Japan,66.0,M,20.2,Retail,Fashion & Retail
+43,Charles Ergen,United States of America,62.0,M,20.1,Dish Network,Media & Entertainment
+44,Dilip Shanghvi,India,59.0,M,20.0,Pharmaceuticals,Healthcare
+45,Laurene Powell Jobs,United States of America,51.0,F,19.5,"Apple, Disney",Technology
+46,Dieter Schwarz,Germany,75.0,M,19.4,Retail,Fashion & Retail
+47,Michael Dell,United States of America,50.0,M,19.2,Dell,Technology
+48,Azim Premji,India,69.0,M,19.1,Software,Technology
+49,"Theo Albrecht, Jr.",Germany,64.0,M,19.0,"Aldi, Trader Joe's",Fashion & Retail
+50,Michael Otto,Germany,71.0,M,18.1,"Retail, real estate",Real Estate
+51,Paul Allen,United States of America,62.0,M,17.5,"Microsoft, investments",Technology
+52,Joseph Safra,Brazil,76.0,M,17.3,Banking,Finance
+53,Anne Cox Chambers,United States of America,95.0,F,17.0,Media,Media & Entertainment
+54,Susanne Klatten,Germany,52.0,F,16.8,"BMW, pharmaceuticals",Automotive
+55,Pallonji Mistry,Ireland,85.0,M,16.3,Construction,Real Estate
+56,Ma Huateng,China,43.0,M,16.1,Internet media,Media & Entertainment
+57,Patrick Drahi,France,51.0,M,16.0,Telecom,Telecom
+58,Thomas & Raymond Kwok,Hong Kong,,M,15.9,Real estate,Real Estate
+59,Stefan Quandt,Germany,48.0,M,15.6,BMW,Automotive
+60,Ray Dalio,United States of America,65.0,M,15.4,Hedge funds,Finance
+60,Vladimir Potanin,Russia,54.0,M,15.4,Metals,Mining
+62,Serge Dassault,France,89.0,M,15.3,Aviation,Diversified
+62,Robin Li,China,46.0,M,15.3,Internet search,Technology
+64,Donald Bren,United States of America,82.0,M,15.2,Real estate,Real Estate
+65,Francois Pinault,France,78.0,M,14.9,Retail,Fashion & Retail
+66,Shiv Nadar,India,69.0,M,14.8,Information technology,Technology
+67,Aliko Dangote,Nigeria,57.0,M,14.7,"Cement, sugar, flour",Manufacturing
+68,Mikhail Fridman,Russia,50.0,M,14.6,"Oil, banking, telecom",Energy
+69,Hinduja brothers,United Kingdom,,M,14.5,Diversified,Diversified
+69,Ronald Perelman,United States of America,72.0,M,14.5,Leveraged buyouts,Finance
+71,Cheng Yu-tung,Hong Kong,89.0,M,14.4,Diversified,Diversified
+71,Alisher Usmanov,Russia,61.0,M,14.4,"Steel & mining, telecom, investments",Mining
+73,Henry Sy,Philippines,90.0,M,14.2,Diversified,Diversified
+73,Viktor Vekselberg,Russia,57.0,M,14.2,"Metals, energy",Mining
+75,Masayoshi Son,Japan,57.0,M,14.1,"Internet, telecom",Telecom
+76,James Simons,United States of America,76.0,M,14.0,Hedge funds,Finance
+77,German Larrea Mota Velasco,Mexico,61.0,M,13.9,Mining,Mining
+77,Rupert Murdoch,United States of America,83.0,M,13.9,Media,Media & Entertainment
+77,Johanna Quandt,Germany,88.0,F,13.9,BMW,Automotive
+80,David & Simon Reuben,United Kingdom,72.0,M,13.7,"Investments, real estate",Real Estate
+81,Dhanin Chearavanont,Thailand,75.0,M,13.6,Food,Food & Beverage
+82,Iris Fontbona,Chile,72.0,F,13.5,Mining,Mining
+82,Lui Che Woo,Hong Kong,85.0,M,13.5,Casinos,Gambling & Casinos
+82,Lakshmi Mittal,India,64.0,M,13.5,Steel,Mining
+85,Abigail Johnson,United States of America,53.0,F,13.4,Money management,Finance
+85,Luis Carlos Sarmiento,Colombia,82.0,M,13.4,Banking,Finance
+87,Lei Jun,China,45.0,M,13.2,Smartphones,Technology
+87,Charoen Sirivadhanabhakdi,Thailand,70.0,M,13.2,Beverages,Food & Beverage
+89,Alexey Mordashov,Russia,49.0,M,13.0,"Steel, investments",Mining
+89,Marcel Herrmann Telles,Brazil,65.0,M,13.0,Beer,Food & Beverage
+91,Gerald Cavendish Grosvenor,United Kingdom,63.0,M,12.6,Real estate,Real Estate
+92,Hans Rausing,Sweden,88.0,M,12.5,Packaging,Food & Beverage
+92,Jack Taylor,United States of America,92.0,M,12.5,Enterprise Rent-A-Car,Automotive
+94,Charles Butt,United States of America,77.0,M,12.3,Supermarkets,Fashion & Retail
+94,Gina Rinehart,Australia,61.0,F,12.3,Mining,Mining
+96,Vagit Alekperov,Russia,64.0,M,12.2,Lukoil,Energy
+96,Harold Hamm,United States of America,69.0,M,12.2,Oil & gas,Energy
+96,Patrick Soon-Shiong,United States of America,63.0,M,12.2,Pharmaceuticals,Healthcare
+99,Stefano Pessina,Italy,73.0,M,12.1,Drugstores,Fashion & Retail
+100,Richard Kinder,United States of America,70.0,M,12.0,Pipelines,Energy
+100,Elon Musk,United States of America,43.0,M,12.0,Tesla Motors,Automotive
+100,Stephen Schwarzman,United States of America,68.0,M,12.0,Investments,Finance
