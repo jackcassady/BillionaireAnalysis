@@ -64,3 +64,76 @@ I began my analysis by looking at the billionaires as a whole. My goal was to se
 of billionaires had changed over the time period I would be looking at. This includes the growth
 of total wealth, then comparing how the total wealth had changed in comparison to the Global
 GDP and analyzing how wealth changes as they get older.
+
+<img src="Total_Growth.svg" width=600>
+
+The graph above shows how the combined wealth of the top 100 billionaires on the list has
+changed over time. Looking at the graph we can clearly see that the total wealth has been
+growing nearly linearly over the five years of data sampled. In fact, from 2010 to 2015 the
+combined wealth grew by $843.9 billion. This is roughly 58% in growth over the time of the
+sample. The highest increase from year to year can be found between 2010 and 2011 with a
+nearly $300 billion increase. This tremendous increase in wealth can most likely be attributed to
+a recovery from the 2008 Recession, which allows for cheaper investments allowing for a
+increased growth in wealth overtime. In addition to the cheaper investment prices, the overall
+growth in the prosperity of the economy following the recession makes consumers feel safer to
+spend which ultimately benefits the billionaires on this list. It is important to put these numbers
+into perspective to see how their wealth has changed compared to other people.
+
+<img src="GDP.svg" width=600>
+
+In order to gain some perspective on how the total wealth of billionaires has changed over time, I
+looked at how their wealth had changed in comparison to the Global GDP. The graph above
+shows how the percentage of the Global GDP held by the top 100 billionaires has grown in the
+time of the sample. In 2010, billionaires held 2.21% of the Global GDP compared to 3.07% in
+2015. This 0.86% increase in the percentage held by billionaires shows that not only has their
+wealth been increasing as normal, but their buying power with this money has increased as well.
+The increase in the share of the GDP exemplifies the growing gap between the middle class and
+the top 1% that has been debated for the past few years. The majority of the cause for this
+increase in the percentage held can be attributed to a sharp decline in the GDP in 2015 which
+decreased by $4.28 Trillion from 2014. There is no real explanation for such a large decline in
+the Global GDP, but it could likely be a cause of reduced growth in countries like the United States
+which is normally a major contributor to the GDP while at the same time countries such as
+Brazil had their GDP's shrink.
+
+<img src="age_networth.svg" width=600>
+
+The last graph looks at how age affects the total net worth of someone on the list using the data
+from the top 100 billionaires in 2015. As we can see from the graph the majority of billionaires
+on the list sit near the bottom of the graph. In fact the average total net worth of billionaires in
+2015 was $22.73 billion. I performed linear regression on this data in order to find the
+relationship between age and net worth which can be represented by the linear equation below:
+
+*Net Worth(Billions USD) = 0.07025051(Age) + 17.98358937*
+
+Once again, we can see from the graph that the line sits fairly low on the graph, this leads me to
+believe that there isn't a very strong relationship between age and net worth. This comes from a
+generation of billionaires that are getting younger and richer. Previously people haven't reached
+billionaire status until much later in their lives. Now, billionaires like Jeff Bezos, Mark
+Zuckerberg, Larry Page, Sergey Brin and Elon Musk have gained their wealth at much younger
+ages. I suspect that this trend may continue well into the future as technology becomes more and
+more prevalent.
+
+In order to further analyze the billionaires on the list, I broke down the list into smaller groups
+such as Gender, Industry, and Countries to see how these factors impact wealth.
+
+### Gender ###
+<img src="gender_scatter.svg" width=600>
+
+The plot above shows the previous scatter plot displaying the differences in each gender as well.
+Women are represented by red diamonds while men are the black circles. From the graph we can
+obviously see that there are far more men on the top 100 list in 2015 than there are women; 11
+women to 89. The interesting thing to mention is that roughly half of the women on the list (5)
+are above the average of $22.73 billion. In fact, while the average net worth for men sits just
+below the list average at $22.49 billion, the average for women sits above the average at $23.13
+billion, which is a difference of $64 million.
+
+<img src="gender_piechart.svg" width=600>
+
+Looking at the proportion of women to men in the top 100 billionaires the pie plots above show
+the proportion of the total net worth held by men and women. We can see that the proportion of
+wealth held by women has grown from 2010 to 2015. In 2010 women held about 9.02% of the
+total wealth on the list while in 2015 the women hold 12.06%. You can see how the proportion
+of wealth between men and women changes from 2010 to 2015 in the animation below. This
+33.7% increase shows how women are slowly becoming wealthier and it will be interesting to
+see how these numbers continue to change in the future.
+
